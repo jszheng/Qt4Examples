@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+debug/
+release/
+Makefile
+Makefile.Debug
+Makefile.Release
+*.pro.user
+*.swp
